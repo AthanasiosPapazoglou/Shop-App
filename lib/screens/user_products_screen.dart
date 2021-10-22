@@ -6,6 +6,8 @@ import '../widgets/user_product_item.dart';
 import '../widgets/app_drawer.dart';
 import './edit_product_screen.dart';
 
+//! Displays a ListView of all saved Products ,each product UserProductItem type (ListTile)
+
 class UserProductsScreen extends StatelessWidget {
   static const routeName = '/user-products';
 

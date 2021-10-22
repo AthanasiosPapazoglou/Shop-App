@@ -7,6 +7,8 @@ import '../widgets/badge.dart';
 import '../providers/cart.dart';
 import './cart_screen.dart';
 
+//! Main Screen Depicting GridView of ProductItem instances 
+
 enum FilterOptions {
   Favorites,
   All,
